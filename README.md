@@ -17,6 +17,9 @@ Display and customize Markdown text in SwiftUI.
 
 ## Overview
 
+This is a subset of [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) without the NetworkImage dependency.
+Of course, all functionality using this dependency cannot be used.
+
 MarkdownUI is a powerful library for displaying and customizing Markdown text in SwiftUI. It is
 compatible with the [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) and can
 display images, headings, lists (including task lists), blockquotes, code blocks, tables,
